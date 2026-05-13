@@ -84,7 +84,7 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "よくよくがわく",
+    "jp": "しょくよくがわく",
     "fr": "ça aiguise l'appétit",
     "cours": "03/03/26",
     "niveau": "B1",
@@ -203,7 +203,7 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "あたりば",
+    "jp": "あなば",
     "fr": "une bonne adresse",
     "cours": "05/03/26",
     "niveau": "B1",
@@ -231,7 +231,7 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "いんがいりず",
+    "jp": "いがいに",
     "fr": "étonnamment",
     "cours": "05/03/26",
     "niveau": "B1",
@@ -287,7 +287,7 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "しょうがたい",
+    "jp": "しょうがない",
     "fr": "tant pis",
     "cours": "10/03/26",
     "niveau": "B1",
@@ -301,7 +301,7 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "ふんまつだ",
+    "jp": "ふんまつだし",
     "fr": "poudre",
     "cours": "10/03/26",
     "niveau": "B1",
@@ -378,7 +378,7 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "一人り",
+    "jp": "一いり",
     "fr": "plat à〜 personne(s)",
     "cours": "12/03/26",
     "niveau": "B1",
@@ -399,8 +399,8 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "ふな",
-    "fr": "peu (petit)",
+    "jp": "かわ",
+    "fr": "pequ (plat)",
     "cours": "12/03/26",
     "niveau": "B1",
     "topic": "T2"
@@ -420,7 +420,7 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "フライス",
+    "jp": "つぶす",
     "fr": "écraser / refroidir",
     "cours": "12/03/26",
     "niveau": "B1",
@@ -455,7 +455,7 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "おる",
+    "jp": "ねる",
     "fr": "étaler",
     "cours": "12/03/26",
     "niveau": "B1",
@@ -518,8 +518,8 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "おばねばしった",
-    "fr": "plutôt",
+    "jp": "ねばねばした",
+    "fr": "gluant",
     "cours": "17/03/26",
     "niveau": "B1",
     "topic": "T2"
@@ -567,7 +567,7 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "ニソニク",
+    "jp": "ニリニク",
     "fr": "ail",
     "cours": "17/03/26",
     "niveau": "B1",
@@ -616,7 +616,7 @@ const VOCAB = [
     "topic": "T2"
   },
   {
-    "jp": "あらかじめ",
+    "jp": "めらかじめ",
     "fr": "à l'avance",
     "cours": "19/03/26",
     "niveau": "B1",
@@ -658,7 +658,7 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "もおし",
+    "jp": "もよおし",
     "fr": "événement / spectacle",
     "cours": "じゅんび73",
     "niveau": "B1",
@@ -686,21 +686,21 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "なにより",
+    "jp": "ないよう",
     "fr": "contenu",
     "cours": "じゅんび73",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "かぶし",
+    "jp": "きょく",
     "fr": "chanson / morceau",
     "cours": "じゅんび73",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "あった12〜ない",
+    "jp": "めったに〜ない",
     "fr": "rarement〜 nb de fois",
     "cours": "じゅんび73",
     "niveau": "B1",
@@ -714,14 +714,14 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "〜かいまう",
+    "jp": "たんじゅうんな",
     "fr": "simple",
     "cours": "じゅんび73",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "げんだいてきた",
+    "jp": "げんだいてきな",
     "fr": "contemporain",
     "cours": "じゅんび73",
     "niveau": "B1",
@@ -749,7 +749,7 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "さすめる",
+    "jp": "すすめる",
     "fr": "recommander",
     "cours": "24/03/26",
     "niveau": "B1",
@@ -784,21 +784,21 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "だいひょうてきた",
+    "jp": "だいひょうてきな",
     "fr": "typique",
     "cours": "24/03/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "〜にもとって",
+    "jp": "〜にもよって",
     "fr": "en fonction de",
     "cours": "24/03/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "ひらこやけます",
+    "jp": "ひにやけます",
     "fr": "bronzer",
     "cours": "31/03/26",
     "niveau": "B1",
@@ -812,50 +812,50 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "ないがい",
+    "jp": "れいがい",
     "fr": "exception",
     "cours": "31/03/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "がくせいだい",
+    "jp": "がくせいじだい",
     "fr": "pendant mes études",
     "cours": "31/03/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "〜しても",
+    "jp": "〜してん",
     "fr": "succursale de",
     "cours": "31/03/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "いにんする",
+    "jp": "ふにんする",
     "fr": "nommé à (un poste)",
     "cours": "31/03/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "にほんし",
+    "jp": "にほんしき",
     "fr": "style japonais",
     "cours": "31/03/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "いだう",
+    "jp": "じだう",
     "fr": "une période",
     "cours": "31/03/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "いかた",
-    "fr": "à vrai",
+    "jp": "よう",
+    "fr": "etre ivre",
     "cours": "31/03/26",
     "niveau": "B1",
     "topic": "T3"
@@ -868,7 +868,7 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "いりに",
+    "jp": "むりに",
     "fr": "de force",
     "cours": "31/03/26",
     "niveau": "B1",
@@ -882,7 +882,7 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "つきよう",
+    "jp": "つきおう",
     "fr": "accompagner / fréquenter",
     "cours": "31/03/26",
     "niveau": "B1",
@@ -910,43 +910,29 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "おとなぐする",
+    "jp": "まんぞくする",
     "fr": "satisfait",
     "cours": "31/03/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "〜にひょうし",
-    "fr": "refuser (invitée)",
+    "jp": "ことわる",
+    "fr": "refuser (invitation)",
     "cours": "31/03/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
     "jp": "このみ",
-    "fr": "en vogue / goûts / préférence",
+    "fr": "goûts / préférence",
     "cours": "31/03/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "ことめる",
-    "fr": "couper court / refuser",
-    "cours": "31/03/26",
-    "niveau": "B1",
-    "topic": "T3"
-  },
-  {
-    "jp": "いかく",
+    "jp": "ふかい",
     "fr": "profond",
-    "cours": "02/04/26",
-    "niveau": "B1",
-    "topic": "T3"
-  },
-  {
-    "jp": "ちんかく",
-    "fr": "typique",
     "cours": "02/04/26",
     "niveau": "B1",
     "topic": "T3"
@@ -959,28 +945,28 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "せいかくた",
+    "jp": "せいかくな",
     "fr": "précis",
     "cours": "02/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "ちょうだん",
+    "jp": "しょうだん",
     "fr": "groupe",
     "cours": "02/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "バラム",
+    "jp": "ドラム",
     "fr": "batterie",
     "cours": "02/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "てんいてきた",
+    "jp": "てんかいてきた",
     "fr": "typique",
     "cours": "02/04/26",
     "niveau": "B1",
@@ -994,35 +980,35 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "いレす",
+    "jp": "いしょう",
     "fr": "costume",
     "cours": "02/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "コイフア",
+    "jp": "かみがた",
     "fr": "coiffure",
     "cours": "02/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "はてた",
-    "fr": "extraagant / voyant",
+    "jp": "はてな",
+    "fr": "extravagant / voyant",
     "cours": "02/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "いちりょう",
+    "jp": "どしをとる",
     "fr": "vieillir",
     "cours": "02/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "ここにしまる",
+    "jp": "こころにしみる",
     "fr": "émouvant",
     "cours": "02/04/26",
     "niveau": "B1",
@@ -1043,7 +1029,7 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "でちける",
+    "jp": "でかける",
     "fr": "sortir",
     "cours": "02/04/26",
     "niveau": "B1",
@@ -1057,21 +1043,21 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "さい",
+    "jp": "けいさつ",
     "fr": "police",
     "cours": "02/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "かき",
-    "fr": "ça",
+    "jp": "かぎ",
+    "fr": "clé",
     "cours": "02/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "いたる",
+    "jp": "さいふ",
     "fr": "porte-feuille",
     "cours": "02/04/26",
     "niveau": "B1",
@@ -1120,63 +1106,63 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "げんたん",
+    "jp": "うぇんはん",
     "fr": "1ère moitié",
     "cours": "09/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "あく",
-    "fr": "pleuvoir",
-    "cours": "09/04/26",
-    "niveau": "B1",
-    "topic": "T3"
-  },
-  {
-    "jp": "おとしり",
-    "fr": "se souvenir de",
-    "cours": "09/04/26",
-    "niveau": "B1",
-    "topic": "T3"
-  },
-  {
-    "jp": "ほつ",
-    "fr": "rire",
+    "jp": "なく",
+    "fr": "pleurer",
     "cours": "09/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
     "jp": "きにする",
+    "fr": "se soucier de",
+    "cours": "09/04/26",
+    "niveau": "B1",
+    "topic": "T3"
+  },
+  {
+    "jp": "わらう",
+    "fr": "rire",
+    "cours": "09/04/26",
+    "niveau": "B1",
+    "topic": "T3"
+  },
+  {
+    "jp": "なぜか",
     "fr": "je ne sais pas pourquoi",
     "cours": "09/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "ゆすす",
-    "fr": "causer",
+    "jp": "ゆるす",
+    "fr": "excuser",
     "cours": "09/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "ひょうし",
-    "fr": "humour",
+    "jp": "きぶん",
+    "fr": "humeur",
     "cours": "09/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "ひらく",
+    "jp": "ちょうしゃ",
     "fr": "avantage",
     "cours": "09/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "いとこん",
+    "jp": "けってん",
     "fr": "inconvénient",
     "cours": "09/04/26",
     "niveau": "B1",
@@ -1204,7 +1190,7 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "にせてきた",
+    "jp": "こせてきた",
     "fr": "original",
     "cours": "14/04/26",
     "niveau": "B1",
@@ -1232,14 +1218,14 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "いまえん",
-    "fr": "mageur",
+    "jp": "せいじん",
+    "fr": "majeur",
     "cours": "14/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "せいじんし",
+    "jp": "せいじんしき",
     "fr": "fête de la majorité",
     "cours": "14/04/26",
     "niveau": "B1",
@@ -1253,7 +1239,7 @@ const VOCAB = [
     "topic": "T3"
   },
   {
-    "jp": "したきた",
+    "jp": "してきな",
     "fr": "poétique",
     "cours": "14/04/26",
     "niveau": "B1",
@@ -1282,13 +1268,13 @@ const VOCAB = [
   },
   {
     "jp": "つきます",
-    "fr": "apparaître à",
+    "fr": "qrriver à",
     "cours": "16/04/26",
     "niveau": "B1",
     "topic": "T3"
   },
   {
-    "jp": "はくしょう",
+    "jp": "はくしゅ",
     "fr": "applaudissement",
     "cours": "16/04/26",
     "niveau": "B1",
@@ -1316,14 +1302,14 @@ const VOCAB = [
     "topic": "T4"
   },
   {
-    "jp": "いさき",
+    "jp": "いきさき",
     "fr": "destination",
     "cours": "じゅんびT4",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "ひょうひ",
+    "jp": "ひょうが",
     "fr": "glacier",
     "cours": "じゅんびT4",
     "niveau": "B1",
@@ -1344,35 +1330,35 @@ const VOCAB = [
     "topic": "T4"
   },
   {
-    "jp": "のいちる",
+    "jp": "めいと",
     "fr": "source chaude célèbre",
     "cours": "じゅんびT4",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "だて",
+    "jp": "ひずけい",
     "fr": "date",
     "cours": "じゅんびT4",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "ひとる",
+    "jp": "ひとう",
     "fr": "source chaude secrète",
     "cours": "じゅんびT4",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "ひとけいまる",
+    "jp": "ひずけいみてい",
     "fr": "date non définie",
     "cours": "じゅんびT4",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "〜いく",
+    "jp": "〜はく",
     "fr": "nuit",
     "cours": "じゅんびT4",
     "niveau": "B1",
@@ -1386,42 +1372,42 @@ const VOCAB = [
     "topic": "T4"
   },
   {
-    "jp": "〜のい〜のいさま",
+    "jp": "〜めい〜めいさま",
     "fr": "personnes",
     "cours": "じゅんびT4",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "かいよおする",
+    "jp": "こだわる",
     "fr": "avoir des préférences",
     "cours": "じゅんびT4",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "よしく",
+    "jp": "よしつ",
     "fr": "pièce japonaise",
     "cours": "じゅんびT4",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "いりん",
+    "jp": "じゅじつした",
     "fr": "bien rempli",
     "cours": "じゅんびT4",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "ようじゅう",
+    "jp": "ようじつ",
     "fr": "pièce occidentale",
     "cours": "じゅんびT4",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "よしく",
+    "jp": "だいよくじょう",
     "fr": "bain public",
     "cours": "じゅんびT4",
     "niveau": "B1",
@@ -1435,8 +1421,8 @@ const VOCAB = [
     "topic": "T4"
   },
   {
-    "jp": "おかわに",
-    "fr": "patrimoine",
+    "jp": "おかみ",
+    "fr": "patrone",
     "cours": "28/04/26",
     "niveau": "B1",
     "topic": "T4"
@@ -1449,63 +1435,49 @@ const VOCAB = [
     "topic": "T4"
   },
   {
-    "jp": "かぎでける",
-    "fr": "trains publics",
-    "cours": "28/04/26",
-    "niveau": "B1",
-    "topic": "T4"
-  },
-  {
-    "jp": "かぎてけける",
+    "jp": "かぎをかける",
     "fr": "fermer à clé",
     "cours": "28/04/26",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "つがく",
+    "jp": "らいかん",
     "fr": "visite",
     "cours": "28/04/26",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "わるちん",
+    "jp": "わるてん",
     "fr": "inconvénient",
     "cours": "30/04/26",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "わるちん",
+    "jp": "りてん",
     "fr": "avantage",
     "cours": "30/04/26",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "よんりりょく",
-    "fr": "générique",
+    "jp": "はだ",
+    "fr": "peau",
     "cours": "30/04/26",
     "niveau": "B1",
     "topic": "T4"
   },
   {
     "jp": "おかねもち",
-    "fr": "peu",
-    "cours": "30/04/26",
-    "niveau": "B1",
-    "topic": "T4"
-  },
-  {
-    "jp": "こうつうのべん",
     "fr": "riche",
     "cours": "30/04/26",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "いずいず",
+    "jp": "こうつうのべん",
     "fr": "facilité d'accès",
     "cours": "30/04/26",
     "niveau": "B1",
@@ -1513,34 +1485,27 @@ const VOCAB = [
   },
   {
     "jp": "〜どうし",
-    "fr": "décevoir",
+    "fr": "entre〜",
     "cours": "30/04/26",
     "niveau": "B1",
     "topic": "T4"
   },
   {
     "jp": "こうきゅうりょかん",
-    "fr": "entre",
-    "cours": "30/04/26",
-    "niveau": "B1",
-    "topic": "T4"
-  },
-  {
-    "jp": "ひかりりょかん",
     "fr": "auberge de luxe",
     "cours": "30/04/26",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "ひょうする",
+    "jp": "ひょうかする",
     "fr": "évaluer",
     "cours": "30/04/26",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "いかい",
+    "jp": "ふかい",
     "fr": "déplaisant",
     "cours": "30/04/26",
     "niveau": "B1",
@@ -1554,119 +1519,175 @@ const VOCAB = [
     "topic": "T4"
   },
   {
-    "jp": "ふいせ",
-    "fr": "repos de ryokan",
+    "jp": "かいせき",
+    "fr": "repas de ryokan",
     "cours": "30/04/26",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "おんせん",
+    "jp": "せっかく",
+    "fr": "service",
+    "cours": "30/04/26",
+    "niveau": "B1",
+    "topic": "T4"
+  },
+  {
+    "jp": "すべすべ",
+    "fr": "douce",
+    "cours": "30/04/26",
+    "niveau": "B1",
+    "topic": "T4"
+  },
+  {
+    "jp": "きにある",
+    "fr": "se préoccuper",
+    "cours": "30/04/26",
+    "niveau": "B1",
+    "topic": "T4"
+  },
+  {
+    "jp": "まことに",
+    "fr": "sincérement",
+    "cours": "30/04/26",
+    "niveau": "B1",
+    "topic": "T4"
+  },
+  {
+    "jp": "しかながら",
+    "fr": "cependant",
+    "cours": "30/04/26",
+    "niveau": "B1",
+    "topic": "T4"
+  },
+  {
+    "jp": "こころより",
+    "fr": "du fond du coeur",
+    "cours": "30/04/26",
+    "niveau": "B1",
+    "topic": "T4"
+  },
+  {
+    "jp": "かいぜんする",
+    "fr": "améliorer",
+    "cours": "30/04/26",
+    "niveau": "B1",
+    "topic": "T4"
+  },
+  {
+    "jp": "しんけんい",
+    "fr": "sérieusement",
+    "cours": "30/04/26",
+    "niveau": "B1",
+    "topic": "T4"
+  },
+  {
+    "jp": "おんせんち",
     "fr": "source thermale et ryokan",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "おんせんち",
+    "jp": "ちいき",
     "fr": "région",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "たんさく",
+    "jp": "けんさく",
     "fr": "rechercher",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "かいじゅう",
+    "jp": "こだわりじょうけん",
     "fr": "critères de recherche",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "てんないりょうじゅう",
+    "jp": "ろてんぶろ",
     "fr": "bain en extérieur",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "てんないゆう",
+    "jp": "てんほうぶろ",
     "fr": "bain avec vue",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "ひょうきりい〜む",
+    "jp": "きんえんルーム",
     "fr": "chambre non-fumeur",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "ひとる",
+    "jp": "にごりゅ",
     "fr": "source chaude trouble",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "じょうしん",
+    "jp": "ばんぐみ",
     "fr": "émission télé",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "さまる",
+    "jp": "おそうする",
     "fr": "prévoir",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "えさん",
+    "jp": "さる",
     "fr": "singe",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "こだん",
+    "jp": "とだん",
     "fr": "ascension (d'une montagne)",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "えさん",
+    "jp": "がめん",
     "fr": "écran",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "たのまん",
+    "jp": "ごらいこ",
     "fr": "lever du soleil",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "もとのさち",
+    "jp": "もとめる",
     "fr": "rechercher / demander",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "さち",
+    "jp": "ながめ",
     "fr": "vue",
     "cours": "ルートラページ",
     "niveau": "B1",
@@ -1680,70 +1701,70 @@ const VOCAB = [
     "topic": "T4"
   },
   {
-    "jp": "まんちょうせい",
+    "jp": "せいかいてきに",
     "fr": "mondialisation",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "しんかうりい",
+    "jp": "うんがいい",
     "fr": "avoir de la chance",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "うんじく",
+    "jp": "こんよくする",
     "fr": "prendre un bain ensemble",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "さつ",
+    "jp": "さつい",
     "fr": "pénible / rude",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "いこい",
+    "jp": "くろうする",
     "fr": "souffrir",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "ひかいちす",
+    "jp": "ひょうこう",
     "fr": "altitude",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "〜せえさう",
+    "jp": "はやおきする",
     "fr": "se lever tôt",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "いぬくい",
+    "jp": "いろり",
     "fr": "foyer",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "ひせよ",
+    "jp": "いせえび",
     "fr": "langouste",
     "cours": "ルートラページ",
     "niveau": "B1",
     "topic": "T4"
   },
   {
-    "jp": "ようこく",
+    "jp": "さっそく",
     "fr": "immédiatement",
     "cours": "ルートラページ",
     "niveau": "B1",
