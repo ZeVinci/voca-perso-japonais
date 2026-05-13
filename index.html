@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Réviser Japonais</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ============ ÉCRAN D'ACCUEIL ============ -->
+  <div id="home-screen" class="screen active">
+    <header>
+      <h1>日本語</h1>
+      <p class="subtitle">Réviser le vocabulaire</p>
+    </header>
+    <div class="home-buttons">
+      <button class="big-button" data-action="goto-learn">📖 Apprendre</button>
+      <button class="big-button" data-action="goto-revise-setup">🎯 Réviser</button>
+    </div>
+    <p class="word-count" id="word-count"></p>
+  </div>
+
+  <!-- ============ MODE APPRENDRE ============ -->
+  <div id="learn-screen" class="screen">
+    <header class="screen-header">
+      <button class="back-btn" data-action="goto-home">← Accueil</button>
+      <h2>Apprendre</h2>
+    </header>
+
+    <div class="filters">
+      <label>
+        Cours :
+        <select id="learn-filter-date"><option value="">Tous</option></select>
+      </label>
+      <label>
+        Niveau :
+        <select id="learn-filter-level"><option value="">Tous</option></select>
+      </label>
+      <label>
+        Topic :
+        <select id="learn-filter-topic"><option value="">Tous</option></select>
+      </label>
+      <label>
+        Cacher :
+        <select id="learn-hide">
+          <option value="none">Rien</option>
+          <option value="fr">Le français</option>
+          <option value="jp">Le japonais</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="learn-list" id="learn-list"></div>
+  </div>
+
+  <!-- ============ MODE RÉVISION : SETUP ============ -->
+  <div id="revise-setup-screen" class="screen">
+    <header class="screen-header">
+      <button class="back-btn" data-action="goto-home">← Accueil</button>
+      <h2>Réviser</h2>
+    </header>
+
+    <div class="filters">
+      <label>
+        Cours :
+        <select id="revise-filter-date"><option value="">Tous</option></select>
+      </label>
+      <label>
+        Niveau :
+        <select id="revise-filter-level"><option value="">Tous</option></select>
+      </label>
+      <label>
+        Topic :
+        <select id="revise-filter-topic"><option value="">Tous</option></select>
+      </label>
+      <label>
+        Sens :
+        <select id="revise-direction">
+          <option value="jp-fr">Japonais → Français</option>
+          <option value="fr-jp">Français → Japonais</option>
+        </select>
+      </label>
+    </div>
+
+    <p class="setup-info" id="setup-info"></p>
+    <button class="big-button" data-action="start-revise">Commencer</button>
+  </div>
+
+  <!-- ============ MODE RÉVISION : JEU ============ -->
+  <div id="revise-game-screen" class="screen">
+    <header class="screen-header">
+      <button class="back-btn" data-action="stop-revise">← Arrêter</button>
+      <div class="score">
+        <span id="score-good">0</span> / <span id="score-total">0</span>
+      </div>
+    </header>
+
+    <div class="card" id="card">
+      <div class="card-prompt" id="card-prompt"></div>
+      <div class="card-hint" id="card-hint">Touche pour révéler</div>
+      <div class="card-answer" id="card-answer" style="display:none;"></div>
+    </div>
+
+    <div class="answer-buttons" id="answer-buttons" style="display:none;">
+      <button class="answer-btn wrong" data-action="mark-wrong">❌ Raté</button>
+      <button class="answer-btn right" data-action="mark-right">✅ Réussi</button>
+    </div>
+  </div>
+
+  <script src="vocab.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
