@@ -3,14 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Réviser Japonais</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Voca Jap</title>
   <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#111111">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <!-- ============ ÉCRAN D'ACCUEIL ============ -->
+  <!-- ===== ACCUEIL ===== -->
   <div id="home-screen" class="screen active">
     <header>
       <h1>日本語</h1>
@@ -23,90 +22,96 @@
     <p class="word-count" id="word-count"></p>
   </div>
 
-  <!-- ============ MODE APPRENDRE ============ -->
+  <!-- ===== APPRENDRE ===== -->
   <div id="learn-screen" class="screen">
-    <header class="screen-header">
+    <div class="screen-header">
       <button class="back-btn" data-action="goto-home">← Accueil</button>
       <h2>Apprendre</h2>
-    </header>
+      <button class="icon-btn" id="learn-filter-toggle" aria-label="Filtres">⚙</button>
+    </div>
 
-    <div class="filters">
-      <label>
-        Cours :
-        <select id="learn-filter-date"><option value="">Tous</option></select>
-      </label>
-      <label>
-        Niveau :
-        <select id="learn-filter-level"><option value="">Tous</option></select>
-      </label>
-      <label>
-        Topic :
-        <select id="learn-filter-topic"><option value="">Tous</option></select>
-      </label>
-      <label>
-        Cacher :
-        <select id="learn-hide">
-          <option value="none">Rien</option>
-          <option value="fr">Le français</option>
-          <option value="jp">Le japonais</option>
-        </select>
-      </label>
+    <!-- Panneau filtres (caché par défaut) -->
+    <div class="filter-panel" id="learn-filter-panel" style="display:none">
+      <div class="filter-group">
+        <div class="filter-group-label">Cours</div>
+        <div class="chip-row" id="learn-chips-cours"></div>
+      </div>
+      <div class="filter-group">
+        <div class="filter-group-label">Topic</div>
+        <div class="chip-row" id="learn-chips-topic"></div>
+      </div>
+      <div class="filter-group">
+        <div class="filter-group-label">Cacher</div>
+        <div class="chip-row">
+          <label class="cb-label"><input type="checkbox" id="hide-jp"> Japonais</label>
+          <label class="cb-label"><input type="checkbox" id="hide-fr"> Français</label>
+        </div>
+      </div>
+      <div class="filter-count" id="learn-count"></div>
     </div>
 
     <div class="learn-list" id="learn-list"></div>
   </div>
 
-  <!-- ============ MODE RÉVISION : SETUP ============ -->
+  <!-- ===== RÉVISION SETUP ===== -->
   <div id="revise-setup-screen" class="screen">
-    <header class="screen-header">
+    <div class="screen-header">
       <button class="back-btn" data-action="goto-home">← Accueil</button>
       <h2>Réviser</h2>
-    </header>
-
-    <div class="filters">
-      <label>
-        Cours :
-        <select id="revise-filter-date"><option value="">Tous</option></select>
-      </label>
-      <label>
-        Niveau :
-        <select id="revise-filter-level"><option value="">Tous</option></select>
-      </label>
-      <label>
-        Topic :
-        <select id="revise-filter-topic"><option value="">Tous</option></select>
-      </label>
-      <label>
-        Sens :
-        <select id="revise-direction">
-          <option value="jp-fr">Japonais → Français</option>
-          <option value="fr-jp">Français → Japonais</option>
-        </select>
-      </label>
+      <div style="width:40px"></div>
     </div>
 
-    <p class="setup-info" id="setup-info"></p>
-    <button class="big-button" data-action="start-revise">Commencer</button>
+    <div class="setup-body">
+      <div class="setup-section">
+        <div class="setup-section-title">Filtrer</div>
+        <div class="filter-group">
+          <div class="filter-group-label">Cours</div>
+          <div class="chip-row" id="rev-chips-cours"></div>
+        </div>
+        <div class="filter-group">
+          <div class="filter-group-label">Topic</div>
+          <div class="chip-row" id="rev-chips-topic"></div>
+        </div>
+        <div class="setup-count" id="rev-count"></div>
+      </div>
+
+      <div class="setup-section">
+        <div class="setup-section-title">Sens</div>
+        <label class="radio-label">
+          <input type="radio" name="rev-dir" value="jp-fr" checked> Japonais → Français
+        </label>
+        <label class="radio-label">
+          <input type="radio" name="rev-dir" value="fr-jp"> Français → Japonais
+        </label>
+      </div>
+
+      <button class="big-button" data-action="start-revise">Commencer</button>
+    </div>
   </div>
 
-  <!-- ============ MODE RÉVISION : JEU ============ -->
+  <!-- ===== RÉVISION JEU ===== -->
   <div id="revise-game-screen" class="screen">
-    <header class="screen-header">
+    <div class="screen-header">
       <button class="back-btn" data-action="stop-revise">← Arrêter</button>
       <div class="score">
-        <span id="score-good">0</span> / <span id="score-total">0</span>
+        <span class="score-good" id="score-good">0</span>
+        <span class="score-mid" id="score-mid"> · </span>
+        <span class="score-mid-val" id="score-mid-val">0</span>
+        <span class="score-sep"> / </span>
+        <span id="score-total">0</span>
       </div>
-    </header>
+    </div>
 
     <div class="card" id="card">
       <div class="card-prompt" id="card-prompt"></div>
       <div class="card-hint" id="card-hint">Touche pour révéler</div>
-      <div class="card-answer" id="card-answer" style="display:none;"></div>
+      <div class="card-answer" id="card-answer" style="display:none"></div>
     </div>
 
-    <div class="answer-buttons" id="answer-buttons" style="display:none;">
-      <button class="answer-btn wrong" data-action="mark-wrong">❌ Raté</button>
-      <button class="answer-btn right" data-action="mark-right">✅ Réussi</button>
+    <div class="answer-buttons" id="answer-buttons" style="display:none">
+      <button class="answer-btn wrong"   data-action="mark-wrong">❌ Raté</button>
+      <button class="answer-btn middle"  data-action="mark-middle">〜 Moyen</button>
+      <button class="answer-btn right"   data-action="mark-right">✅ Réussi</button>
     </div>
   </div>
 

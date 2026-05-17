@@ -4,8 +4,8 @@ Japonais (hiraganas),Français,Nom du cours,Niveau,Topic
 ひょうか,évaluation,03/03/26,B1,T2
 じもとのひとがいくみせ,restaurant où vont les locaux,03/03/26,B1,T2
 こどもをつものりょうしんにまずける,envoyer les enfants chez les grands-parents,03/03/26,B1,T2
-たべしょうだい,manger à volonté,03/03/26,B1,T2
-かぞくてきな,familial,03/03/26,B1,T2
+たべほうだい,manger à volonté,03/03/26,B1,T2
+かていてきな,familial,03/03/26,B1,T2
 りょうてい,resto gastro japonais,03/03/26,B1,T2
 おもてなし,hospitalité / accueil,03/03/26,B1,T2
 いっぴん,un plat,03/03/26,B1,T2
@@ -25,7 +25,7 @@ Japonais (hiraganas),Français,Nom du cours,Niveau,Topic
 とくちょう,particularité,05/03/26,B1,T2
 りょうりにん,cuisinier,05/03/26,B1,T2
 ほんもの,authentique,05/03/26,B1,T2
-ほうしき,buffet à volonté,05/03/26,B1,T2
+バイキングほうしき,buffet à volonté,05/03/26,B1,T2
 とにかく,en tout cas,05/03/26,B1,T2
 こんでいる,plein / complet,05/03/26,B1,T2
 あなば,une bonne adresse,05/03/26,B1,T2
@@ -33,7 +33,7 @@ Japonais (hiraganas),Français,Nom du cours,Niveau,Topic
 ぎょうれつ,file d'attente,05/03/26,B1,T2
 けってん,défaut,05/03/26,B1,T2
 いがいに,étonnamment,05/03/26,B1,T2
-にほんせい,à la japonaise,05/03/26,B1,T2
+にほんふう,à la japonaise,05/03/26,B1,T2
 たかめ,plutôt cher,05/03/26,B1,T2
 きみ,jaune d'œuf,10/03/26,B1,T2
 かい,coquillage,10/03/26,B1,T2
@@ -47,9 +47,9 @@ Japonais (hiraganas),Français,Nom du cours,Niveau,Topic
 ちゃいろい,brun,10/03/26,B1,T2
 かつおぶし,bonite séchée,10/03/26,B1,T2
 にほんせい,fabriqué au Japon,10/03/26,B1,T2
-むりだ,impossible,10/03/26,B1,T2
+むりな,impossible,10/03/26,B1,T2
 コンセント,prise électrique,10/03/26,B1,T2
-かんじます,ressentir,10/03/26,B1,T2
+かんじる,ressentir,10/03/26,B1,T2
 たりる,suffire,10/03/26,B1,T2
 ながねぎ,oignon vert,10/03/26,B1,T2
 たまねぎ,oignon,10/03/26,B1,T2
@@ -64,7 +64,7 @@ Japonais (hiraganas),Français,Nom du cours,Niveau,Topic
 てっぱん,plaque chauffante,12/03/26,B1,T2
 うすい,mince,12/03/26,B1,T2
 のせる,mettre dessus,12/03/26,B1,T2
-ねる,étaler,12/03/26,B1,T2
+ぬる,étaler,12/03/26,B1,T2
 できあがり,c'est prêt,12/03/26,B1,T2
 コツ,truc / astuce,12/03/26,B1,T2
 ひきにく,viande hachée,12/03/26,B1,T2
@@ -87,9 +87,9 @@ Japonais (hiraganas),Français,Nom du cours,Niveau,Topic
 ひ,feu,19/03/26,B1,T2
 うらめん,face arrière,19/03/26,B1,T2
 おもてめん,face avant,19/03/26,B1,T2
-めらかじめ,à l'avance,19/03/26,B1,T2
+あらかじめ,à l'avance,19/03/26,B1,T2
 かわりに,à la place de,19/03/26,B1,T2
-かためる,durcir,19/03/26,B1,T2
+かたまる,durcir,19/03/26,B1,T2
 たどうし,transitif,19/03/26,B1,T2
 じどうし,intransitif,19/03/26,B1,T2
 がっき,instrument de musique,じゅんび73,B1,T3
@@ -101,9 +101,9 @@ Japonais (hiraganas),Français,Nom du cours,Niveau,Topic
 きょく,chanson / morceau,じゅんび73,B1,T3
 めったに〜ない,rarement〜 nb de fois,じゅんび73,B1,T3
 わりあい,proportion,じゅんび73,B1,T3
-たんじゅうんな,simple,じゅんび73,B1,T3
+たんじゅんな,simple,じゅんび73,B1,T3
 げんだいてきな,contemporain,じゅんび73,B1,T3
-こてんてきた,classique,じゅんび73,B1,T3
+こてんてきな,classique,じゅんび73,B1,T3
 なつかしい,nostalgique,じゅんび73,B1,T3
 〜かんじがする,avoir l'impression que〜,じゅんび73,B1,T3
 すすめる,recommander,24/03/26,B1,T3
@@ -124,27 +124,27 @@ Japonais (hiraganas),Français,Nom du cours,Niveau,Topic
 よう,etre ivre,31/03/26,B1,T3
 まよう,hésiter,31/03/26,B1,T3
 むりに,de force,31/03/26,B1,T3
-へた,bizarre / étrange,31/03/26,B1,T3
-つきおう,accompagner / fréquenter,31/03/26,B1,T3
+へんな,bizarre / étrange,31/03/26,B1,T3
+つきあう,accompagner / fréquenter,31/03/26,B1,T3
 しんぱいする,s'inquiéter,31/03/26,B1,T3
-かなし,petit ami,31/03/26,B1,T3
-バンド,groupe,31/03/26,B1,T3
+カレシ,petit ami,31/03/26,B1,T3
+グループ,groupe,31/03/26,B1,T3
 まんぞくする,satisfait,31/03/26,B1,T3
 ことわる,refuser (invitation),31/03/26,B1,T3
 このみ,goûts / préférence,31/03/26,B1,T3
 ふかい,profond,02/04/26,B1,T3
 ジャンル,genre,02/04/26,B1,T3
 せいかくな,précis,02/04/26,B1,T3
-しょうだん,groupe,02/04/26,B1,T3
+グループ,groupe,02/04/26,B1,T3
 ドラム,batterie,02/04/26,B1,T3
-てんかいてきた,typique,02/04/26,B1,T3
-かんどうさる,être ému,02/04/26,B1,T3
+だいひょうてきな,typique,02/04/26,B1,T3
+かんどうする,être ému,02/04/26,B1,T3
 いしょう,costume,02/04/26,B1,T3
 かみがた,coiffure,02/04/26,B1,T3
 はてな,extravagant / voyant,02/04/26,B1,T3
-どしをとる,vieillir,02/04/26,B1,T3
+としをとる,vieillir,02/04/26,B1,T3
 こころにしみる,émouvant,02/04/26,B1,T3
-よりと,plutôt / assez,02/04/26,B1,T3
+わりと,plutôt / assez,02/04/26,B1,T3
 まがえる,faire une erreur,02/04/26,B1,T3
 でかける,sortir,02/04/26,B1,T3
 みつける,trouver,02/04/26,B1,T3
@@ -169,9 +169,9 @@ Japonais (hiraganas),Français,Nom du cours,Niveau,Topic
 さっきょくか,compositeur,14/04/26,B1,T3
 えんそうか,interprète,14/04/26,B1,T3
 みりょく,charme / attrait,14/04/26,B1,T3
-こせてきた,original,14/04/26,B1,T3
+こせいてきな,original,14/04/26,B1,T3
 まるで,exactement (comme si),14/04/26,B1,T3
-しゃかい,social,14/04/26,B1,T3
+しゃかいてきな,social,14/04/26,B1,T3
 いんしょう,impression,14/04/26,B1,T3
 せいじん,majeur,14/04/26,B1,T3
 せいじんしき,fête de la majorité,14/04/26,B1,T3
@@ -189,26 +189,26 @@ Japonais (hiraganas),Français,Nom du cours,Niveau,Topic
 ひょうが,glacier,じゅんびT4,B1,T4
 いせき,ruines,じゅんびT4,B1,T4
 かんこうち,site touristique,じゅんびT4,B1,T4
-めいと,source chaude célèbre,じゅんびT4,B1,T4
-ひずけい,date,じゅんびT4,B1,T4
+めいとう,source chaude célèbre,じゅんびT4,B1,T4
+ひづけ,date,じゅんびT4,B1,T4
 ひとう,source chaude secrète,じゅんびT4,B1,T4
-ひずけいみてい,date non définie,じゅんびT4,B1,T4
+ひづけみてい,date non définie,じゅんびT4,B1,T4
 〜はく,nuit,じゅんびT4,B1,T4
 りょうきん,tarif,じゅんびT4,B1,T4
 〜めい〜めいさま,personnes,じゅんびT4,B1,T4
 こだわる,avoir des préférences,じゅんびT4,B1,T4
-よしつ,pièce japonaise,じゅんびT4,B1,T4
-じゅじつした,bien rempli,じゅんびT4,B1,T4
-ようじつ,pièce occidentale,じゅんびT4,B1,T4
+わしつ,pièce japonaise,じゅんびT4,B1,T4
+じゅうじつした,bien rempli,じゅんびT4,B1,T4
+ようしつ,pièce occidentale,じゅんびT4,B1,T4
 だいよくじょう,bain public,じゅんびT4,B1,T4
 しらべる,vérifier,28/04/26,B1,T4
 おかみ,patrone,28/04/26,B1,T4
 かわりに,à la place de,28/04/26,B1,T4
 かぎをかける,fermer à clé,28/04/26,B1,T4
-らいかん,visite,28/04/26,B1,T4
+ごらいかん,visite,28/04/26,B1,T4
 わるてん,inconvénient,30/04/26,B1,T4
 りてん,avantage,30/04/26,B1,T4
-はだ,peau,30/04/26,B1,T4
+かわ,peau,30/04/26,B1,T4
 おかねもち,riche,30/04/26,B1,T4
 こうつうのべん,facilité d'accès,30/04/26,B1,T4
 〜どうし,entre〜,30/04/26,B1,T4
@@ -217,39 +217,39 @@ Japonais (hiraganas),Français,Nom du cours,Niveau,Topic
 ふかい,déplaisant,30/04/26,B1,T4
 おわびもうしあげます,nous vous prions de nous excuser,30/04/26,B1,T4
 かいせき,repas de ryokan,30/04/26,B1,T4
-せっかく,service,30/04/26,B1,T4
+サービス,service,30/04/26,B1,T4
 すべすべ,douce,30/04/26,B1,T4
-きにある,se préoccuper,30/04/26,B1,T4
+きになる,se préoccuper,30/04/26,B1,T4
 まことに,sincérement,30/04/26,B1,T4
-しかながら,cependant,30/04/26,B1,T4
+しかしながら,cependant,30/04/26,B1,T4
 こころより,du fond du coeur,30/04/26,B1,T4
 かいぜんする,améliorer,30/04/26,B1,T4
-しんけんい,sérieusement,30/04/26,B1,T4
+しんけんに,sérieusement,30/04/26,B1,T4
 おんせんち,source thermale et ryokan,ルートラページ,B1,T4
 ちいき,région,ルートラページ,B1,T4
 けんさく,rechercher,ルートラページ,B1,T4
 こだわりじょうけん,critères de recherche,ルートラページ,B1,T4
 ろてんぶろ,bain en extérieur,ルートラページ,B1,T4
-てんほうぶろ,bain avec vue,ルートラページ,B1,T4
+てんぼうぶろ,bain avec vue,ルートラページ,B1,T4
 きんえんルーム,chambre non-fumeur,ルートラページ,B1,T4
-にごりゅ,source chaude trouble,ルートラページ,B1,T4
+にごりゆ,source chaude trouble,ルートラページ,B1,T4
 ばんぐみ,émission télé,ルートラページ,B1,T4
-おそうする,prévoir,ルートラページ,B1,T4
+よそうする,prévoir,ルートラページ,B1,T4
 さる,singe,ルートラページ,B1,T4
-とだん,ascension (d'une montagne),ルートラページ,B1,T4
+とざん,ascension (d'une montagne),ルートラページ,B1,T4
 がめん,écran,ルートラページ,B1,T4
-ごらいこ,lever du soleil,ルートラページ,B1,T4
+ごらいこう,lever du soleil,ルートラページ,B1,T4
 もとめる,rechercher / demander,ルートラページ,B1,T4
 ながめ,vue,ルートラページ,B1,T4
-うんのさち,produits de la mer,ルートラページ,B1,T4
+うみのさち,produits de la mer,ルートラページ,B1,T4
 せいかいてきに,mondialisation,ルートラページ,B1,T4
 うんがいい,avoir de la chance,ルートラページ,B1,T4
 こんよくする,prendre un bain ensemble,ルートラページ,B1,T4
-さつい,pénible / rude,ルートラページ,B1,T4
+きつい,pénible / rude,ルートラページ,B1,T4
 くろうする,souffrir,ルートラページ,B1,T4
 ひょうこう,altitude,ルートラページ,B1,T4
 はやおきする,se lever tôt,ルートラページ,B1,T4
 いろり,foyer,ルートラページ,B1,T4
 いせえび,langouste,ルートラページ,B1,T4
 さっそく,immédiatement,ルートラページ,B1,T4
-さつてく,fondre / se dissoudre,ルートラページ,B1,T4
+とける,fondre / se dissoudre,ルートラページ,B1,T4
